@@ -1,0 +1,19 @@
+{
+  "data": {
+    "id": 1,
+    "attributes": {
+      "SLNO": "1",
+      "Temperature": "88",
+      "NAME": "Dc motar",
+      "createdAt": "2024-09-20T08:35:31.959Z",
+      "updatedAt": "2024-09-23T12:02:15.510Z",
+      "publishedAt": "2024-09-20T08:35:33.766Z",
+      "Fault": true,
+      "Speed": "98",
+      "humidity": 88
+    }
+  },
+  "meta": {
+
+  }
+}
